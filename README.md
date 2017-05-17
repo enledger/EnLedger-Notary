@@ -5,7 +5,7 @@ EnLedgerize! your data using the EnLedger-Notary toolset for secure data storage
 
 EnLedger-Notary project is a blockchain node implementation and set of tools for securely storing any type of data with
 permissioned access layers. Secure or encrypted data can be notarized, with full protocol for authentication layers and
-efficient encrypted data access by any number of key-holders. SOLES-Notary is based on the Tendermint Message Server
+efficient encrypted data access by any number of key-holders. EnLedger-Notary is based on the Tendermint Message Server
 Protocol and uses a Delegated Proof of Stake consensus protocol to add to verfify new blocks in a blockchain.
 
 EnLedger-Notary Blockchain Node &amp; Data Server platform is built on a model that includes a
