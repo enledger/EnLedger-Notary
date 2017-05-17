@@ -1,5 +1,5 @@
 # Enledger-Notary
-A suite for notarizing any type of data onto the EnLedger Notary Server Network &amp; EnLedger Notary Blockchain 
+A suite for notarizing any type of data onto the EnLedger Notary Blockchain & Data Server Network
 
 EnLedgerize! your data using the EnLedger-Notary toolset for secure data storage and heirarchically permissioned data access.
 
